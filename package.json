@@ -1,0 +1,27 @@
+{
+  "name": "first-demo-mocha-chai",
+  "version": "1.0.0",
+  "description": "A first demo of Mocha Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xedric/first-demo-mocha-chai.git"
+  },
+  "keywords": [
+    "Mocha",
+    "Chai"
+  ],
+  "author": "Niklas Mårdby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xedric/first-demo-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/xedric/first-demo-mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
